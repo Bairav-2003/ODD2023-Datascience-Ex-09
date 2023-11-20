@@ -18,9 +18,6 @@ Apply data visualization techniques to identify the patterns of the data.
 
 
 # CODE AND OUTPUT:
-Name: Sanjay G
-
-Reg no:212222230131
 
 ```
 import seaborn as sns
